@@ -1,0 +1,28 @@
+{
+  "name": "express-parallel-middleware-loader",
+  "version": "0.0.1",
+  "description": "Express Parallel Middleware Loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mintyPT/express-parallel-middleware-loader.git"
+  },
+  "keywords": [
+    "express",
+    "parallel",
+    "middleware",
+    "loader"
+  ],
+  "author": "Mauro Santos <“mauro.goncalo@gmail.com”> (http://maurogoncalo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mintyPT/express-parallel-middleware-loader/issues"
+  },
+  "homepage": "https://github.com/mintyPT/express-parallel-middleware-loader#readme",
+  "dependencies": {
+    "async": "^2.1.4"
+  }
+}
