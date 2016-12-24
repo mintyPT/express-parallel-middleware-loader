@@ -1,6 +1,6 @@
 {
   "name": "express-parallel-middleware-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express Parallel Middleware Loader",
   "main": "index.js",
   "scripts": {
